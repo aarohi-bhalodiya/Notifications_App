@@ -1,19 +1,27 @@
-# Notifications_App
-Developed with below version installed:  
-Angular CLI: 10.1.7  
-Node: 14.15.4        
-OS: win32 x64  Perquisite:  
+# CrestPractical
 
-Angular CLI must be installed in system   
-Node must be installed   
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
-To run node API    
-cd node_APIs   
-npm install  
-node server.js (This will run on port 8081 URL will be http://localhost:8081)  
-Postman API collection: https://www.getpostman.com/collections/51466e7089b1bec4a4d2   
+## Development server
 
-To start app  
-git clone   
-npm install   
-npm start (This will run on port 4200 URL will be http://localhost:4200)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
